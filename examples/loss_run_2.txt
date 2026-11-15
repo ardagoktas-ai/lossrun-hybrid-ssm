@@ -1,0 +1,370 @@
+Pinecrest Indemnity Group
+LOSS RUN REPORT
+Named Insured: Apex Plumbing & Heating Holdings Inc.
+Line of Business: General Liability
+Valued As Of: 2025-04-12
+
+Policy AM326363  |  Term 2020-06-01 to 2021-06-01
+Claim Number: 17-453472
+Loss Date: 2020-06-18
+Claimant: Sofia Johnson
+Cause: Customer slip and fall on premises
+Status: Reopened
+Total Paid: $1,965.31
+Outstanding Reserve: $488.11
+Total Incurred: $2,453.42
+------------------------------
+Claim Number: 46-277201
+Loss Date: 2020-07-08
+Claimant: Nadia Walker
+Cause: Product defect allegation
+Status: Open
+Total Paid: $38,471.24
+Outstanding Reserve: $4,220
+Total Incurred: $42,691.24
+------------------------------
+Claim Number: 58-854358
+Loss Date: 2020-09-22
+Claimant: Carlos Martinez
+Cause: Product defect allegation
+Status: Closed
+Total Paid: $15,008
+Outstanding Reserve: $0
+Total Incurred: $15,008
+------------------------------
+Claim Number: 13-971790
+Loss Date: 2020-09-28
+Claimant: Hannah Garcia
+Cause: Bodily injury - falling object
+Status: Closed
+Total Paid: $0
+Outstanding Reserve: $0
+Total Incurred: $0
+------------------------------
+Claim Number: 88-405904
+Loss Date: 2020-10-03
+Claimant: James Clark
+Cause: Property damage at client site
+Status: Closed
+Total Paid: $1,487.69
+Outstanding Reserve: $0
+Total Incurred: $1,487.69
+------------------------------
+Claim Number: 54-388130
+Loss Date: 2020-10-28
+Claimant: Sofia Johnson
+Cause: Bodily injury - falling object
+Status: Reopened
+Total Paid: $791.33
+Outstanding Reserve: $4,761.81
+Total Incurred: $5,553.14
+------------------------------
+Claim Number: 15-899242
+Loss Date: 2020-12-18
+Claimant: Michael Young
+Cause: Water damage to neighboring unit
+Status: Reopened
+Total Paid: $8,650.35
+Outstanding Reserve: $5,126
+Total Incurred: $13,776.35
+------------------------------
+Claim Number: 68-504010
+Loss Date: 2021-02-01
+Claimant: Sofia Moore
+Cause: Product defect allegation
+Status: Closed
+Total Paid: $17,970.77
+Outstanding Reserve: $0
+Total Incurred: $17,970.77
+------------------------------
+Claim Number: 93-342739
+Loss Date: 2021-02-04
+Claimant: Andre Nguyen
+Cause: Property damage at client site
+Status: Closed
+Total Paid: $1,947.69
+Outstanding Reserve: $0
+Total Incurred: $1,947.69
+------------------------------
+Claim Number: 80-475092
+Loss Date: 2021-03-17
+Claimant: Aisha Nguyen
+Cause: Water damage to neighboring unit
+Status: Closed
+Total Paid: $5,121.05
+Outstanding Reserve: $0
+Total Incurred: $5,121.05
+------------------------------
+Claim Number: 65-709843
+Loss Date: 2021-05-21
+Claimant: Robert Nguyen
+Cause: Property damage at client site
+Status: Reopened
+Total Paid: $2,314.38
+Outstanding Reserve: $33,477.95
+Total Incurred: $35,792.33
+------------------------------
+Policy Totals: 11 claims | Paid $93,727.81 | Reserve $48,073.87 | Incurred $141,801.68
+
+Policy AM4021001  |  Term 2021-06-01 to 2022-06-01
+Claim Number: 58-215476
+Loss Date: 2021-06-26
+Claimant: Thomas Young
+Cause: Product defect allegation
+Status: Closed
+Total Paid: $7,350.01
+Outstanding Reserve: $0
+Total Incurred: $7,350.01
+------------------------------
+Claim Number: 95-287050
+Loss Date: 2021-07-20
+Claimant: David Wilson
+Cause: Bodily injury - falling object
+Status: Closed
+Total Paid: $81,976.20
+Outstanding Reserve: $0
+Total Incurred: $81,976.20
+------------------------------
+Claim Number: 96-131089
+Loss Date: 2021-08-16
+Claimant: David Brown
+Cause: Property damage at client site
+Status: Closed
+Total Paid: $25,623.08
+Outstanding Reserve: $0
+Total Incurred: $25,623.08
+------------------------------
+Claim Number: 48-197248
+Loss Date: 2021-08-24
+Claimant: Maria Walker
+Cause: Customer slip and fall on premises
+Status: Closed
+Total Paid: $3,793
+Outstanding Reserve: $0
+Total Incurred: $3,793
+------------------------------
+Claim Number: 98-995304
+Loss Date: 2021-09-28
+Claimant: Patricia Rivera
+Cause: Water damage to neighboring unit
+Status: Reopened
+Total Paid: $4,686.01
+Outstanding Reserve: $7,095
+Total Incurred: $11,781.01
+------------------------------
+Claim Number: 70-889372
+Loss Date: 2021-11-23
+Claimant: Sofia Davis
+Cause: Water damage to neighboring unit
+Status: Reopened
+Total Paid: $12,223.14
+Outstanding Reserve: $1,675
+Total Incurred: $13,898.14
+------------------------------
+Claim Number: 33-377820
+Loss Date: 2021-11-27
+Claimant: Daniel Wilson
+Cause: Trip over extension cord
+Status: Closed
+Total Paid: $7,097.55
+Outstanding Reserve: $0
+Total Incurred: $7,097.55
+------------------------------
+Claim Number: 48-188842
+Loss Date: 2021-12-27
+Claimant: Hannah Johnson
+Cause: Water damage to neighboring unit
+Status: Reopened
+Total Paid: $7,894.07
+Outstanding Reserve: $4,516.85
+Total Incurred: $12,410.92
+------------------------------
+Claim Number: 61-173925
+Loss Date: 2022-01-17
+Claimant: Thomas Lewis
+Cause: Trip over extension cord
+Status: Closed
+Total Paid: $9,024
+Outstanding Reserve: $0
+Total Incurred: $9,024
+------------------------------
+Claim Number: 42-745414
+Loss Date: 2022-03-18
+Claimant: Grace Johnson
+Cause: Property damage at client site
+Status: Closed
+Total Paid: $293,442.29
+Outstanding Reserve: $0
+Total Incurred: $293,442.29
+------------------------------
+Claim Number: 41-358340
+Loss Date: 2022-05-11
+Claimant: Linda Patel
+Cause: Trip over extension cord
+Status: Closed
+Total Paid: $0
+Outstanding Reserve: $0
+Total Incurred: $0
+------------------------------
+Claim Number: 15-689074
+Loss Date: 2022-05-19
+Claimant: Robert Clark
+Cause: Water damage to neighboring unit
+Status: Closed
+Total Paid: $27,021.08
+Outstanding Reserve: $0
+Total Incurred: $27,021.08
+------------------------------
+Policy Totals: 12 claims | Paid $480,130.43 | Reserve $13,286.85 | Incurred $493,417.28
+
+--- Page 2 ---
+
+Policy AM332681  |  Term 2022-06-01 to 2023-06-01
+Claim Number: 27-585262
+Loss Date: 2022-06-27
+Claimant: David Lewis
+Cause: Trip over extension cord
+Status: Closed
+Total Paid: $0
+Outstanding Reserve: $0
+Total Incurred: $0
+------------------------------
+Claim Number: 50-412541
+Loss Date: 2022-07-24
+Claimant: Robert Smith
+Cause: Bodily injury - falling object
+Status: Reopened
+Total Paid: $0
+Outstanding Reserve: $0
+Total Incurred: $0
+------------------------------
+Claim Number: 22-526043
+Loss Date: 2022-08-02
+Claimant: Kevin Patel
+Cause: Customer slip and fall on premises
+Status: Reopened
+Total Paid: $2,790
+Outstanding Reserve: $29,978
+Total Incurred: $32,768
+------------------------------
+Claim Number: 60-193005
+Loss Date: 2022-09-02
+Claimant: Michael Thomas
+Cause: Bodily injury - falling object
+Status: Closed
+Total Paid: $20,286.34
+Outstanding Reserve: $0
+Total Incurred: $20,286.34
+------------------------------
+Policy Totals: 4 claims | Paid $23,076.34 | Reserve $29,978 | Incurred $53,054.34
+
+--- Page 3 ---
+
+Policy AM5999856  |  Term 2023-06-01 to 2024-06-01
+Claim Number: 90-306476
+Loss Date: 2023-06-05
+Claimant: Grace Davis
+Cause: Water damage to neighboring unit
+Status: Reopened
+Total Paid: $3,070
+Outstanding Reserve: $5,175.68
+Total Incurred: $8,245.68
+------------------------------
+Claim Number: 47-870275
+Loss Date: 2023-09-18
+Claimant: David Rivera
+Cause: Trip over extension cord
+Status: Reopened
+Total Paid: $6,896.29
+Outstanding Reserve: $8,796.77
+Total Incurred: $15,693.06
+------------------------------
+Claim Number: 77-267626
+Loss Date: 2023-11-01
+Claimant: Andre Garcia
+Cause: Property damage at client site
+Status: Closed
+Total Paid: $8,591
+Outstanding Reserve: $0
+Total Incurred: $8,591
+------------------------------
+Claim Number: 25-583215
+Loss Date: 2024-02-22
+Claimant: James Hall
+Cause: Property damage at client site
+Status: Closed
+Total Paid: $2,678.56
+Outstanding Reserve: $0
+Total Incurred: $2,678.56
+------------------------------
+Claim Number: 87-638799
+Loss Date: 2024-03-24
+Claimant: David Davis
+Cause: Property damage at client site
+Status: Reopened
+Total Paid: $2,044.46
+Outstanding Reserve: $7,548.88
+Total Incurred: $9,593.34
+------------------------------
+Claim Number: 35-944669
+Loss Date: 2024-04-28
+Claimant: Carlos Walker
+Cause: Bodily injury - falling object
+Status: Closed
+Total Paid: $1,554.72
+Outstanding Reserve: $0
+Total Incurred: $1,554.72
+------------------------------
+Claim Number: 13-874155
+Loss Date: 2024-05-22
+Claimant: Kevin Brown
+Cause: Customer slip and fall on premises
+Status: Closed
+Total Paid: $9,833.18
+Outstanding Reserve: $0
+Total Incurred: $9,833.18
+------------------------------
+Policy Totals: 7 claims | Paid $34,668.21 | Reserve $21,521.33 | Incurred $56,189.54
+
+Policy AM929093  |  Term 2024-06-01 to 2025-06-01
+Claim Number: 46-463296
+Loss Date: 2024-08-18
+Claimant: Daniel Rivera
+Cause: Product defect allegation
+Status: Closed
+Total Paid: $10,391
+Outstanding Reserve: $0
+Total Incurred: $10,391
+------------------------------
+Claim Number: 83-755676
+Loss Date: 2024-10-01
+Claimant: Aisha Hall
+Cause: Bodily injury - falling object
+Status: Reopened
+Total Paid: $23,696
+Outstanding Reserve: $6,977.39
+Total Incurred: $30,673.39
+------------------------------
+Claim Number: 33-929847
+Loss Date: 2024-10-24
+Claimant: Hannah Hall
+Cause: Customer slip and fall on premises
+Status: Closed
+Total Paid: $5,843.49
+Outstanding Reserve: $0
+Total Incurred: $5,843.49
+------------------------------
+Claim Number: 85-665751
+Loss Date: 2024-12-20
+Claimant: David Lewis
+Cause: Product defect allegation
+Status: Closed
+Total Paid: $218.35
+Outstanding Reserve: $0
+Total Incurred: $218.35
+------------------------------
+Policy Totals: 4 claims | Paid $40,148.84 | Reserve $6,977.39 | Incurred $47,126.23
+
+--- Page 4 ---
+
+END OF REPORT

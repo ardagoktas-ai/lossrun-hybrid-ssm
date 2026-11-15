@@ -1,0 +1,347 @@
+{
+ "insured": "Apex Plumbing & Heating Holdings Inc.",
+ "carrier": "Pinecrest Indemnity Group",
+ "line": "General Liability",
+ "valuation_date": "2025-04-12",
+ "policies": [
+  {
+   "policy": "AM326363",
+   "start": "2020-06-01",
+   "end": "2021-06-01",
+   "claims": [
+    {
+     "id": "17-453472",
+     "date": "2020-06-18",
+     "status": "Reopened",
+     "paid": "1965.31",
+     "reserve": "488.11",
+     "incurred": "2453.42"
+    },
+    {
+     "id": "46-277201",
+     "date": "2020-07-08",
+     "status": "Open",
+     "paid": "38471.24",
+     "reserve": "4220.00",
+     "incurred": "42691.24"
+    },
+    {
+     "id": "58-854358",
+     "date": "2020-09-22",
+     "status": "Closed",
+     "paid": "15008.00",
+     "reserve": "0.00",
+     "incurred": "15008.00"
+    },
+    {
+     "id": "13-971790",
+     "date": "2020-09-28",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    },
+    {
+     "id": "88-405904",
+     "date": "2020-10-03",
+     "status": "Closed",
+     "paid": "1487.69",
+     "reserve": "0.00",
+     "incurred": "1487.69"
+    },
+    {
+     "id": "54-388130",
+     "date": "2020-10-28",
+     "status": "Reopened",
+     "paid": "791.33",
+     "reserve": "4761.81",
+     "incurred": "5553.14"
+    },
+    {
+     "id": "15-899242",
+     "date": "2020-12-18",
+     "status": "Reopened",
+     "paid": "8650.35",
+     "reserve": "5126.00",
+     "incurred": "13776.35"
+    },
+    {
+     "id": "68-504010",
+     "date": "2021-02-01",
+     "status": "Closed",
+     "paid": "17970.77",
+     "reserve": "0.00",
+     "incurred": "17970.77"
+    },
+    {
+     "id": "93-342739",
+     "date": "2021-02-04",
+     "status": "Closed",
+     "paid": "1947.69",
+     "reserve": "0.00",
+     "incurred": "1947.69"
+    },
+    {
+     "id": "80-475092",
+     "date": "2021-03-17",
+     "status": "Closed",
+     "paid": "5121.05",
+     "reserve": "0.00",
+     "incurred": "5121.05"
+    },
+    {
+     "id": "65-709843",
+     "date": "2021-05-21",
+     "status": "Reopened",
+     "paid": "2314.38",
+     "reserve": "33477.95",
+     "incurred": "35792.33"
+    }
+   ]
+  },
+  {
+   "policy": "AM4021001",
+   "start": "2021-06-01",
+   "end": "2022-06-01",
+   "claims": [
+    {
+     "id": "58-215476",
+     "date": "2021-06-26",
+     "status": "Closed",
+     "paid": "7350.01",
+     "reserve": "0.00",
+     "incurred": "7350.01"
+    },
+    {
+     "id": "95-287050",
+     "date": "2021-07-20",
+     "status": "Closed",
+     "paid": "81976.20",
+     "reserve": "0.00",
+     "incurred": "81976.20"
+    },
+    {
+     "id": "96-131089",
+     "date": "2021-08-16",
+     "status": "Closed",
+     "paid": "25623.08",
+     "reserve": "0.00",
+     "incurred": "25623.08"
+    },
+    {
+     "id": "48-197248",
+     "date": "2021-08-24",
+     "status": "Closed",
+     "paid": "3793.00",
+     "reserve": "0.00",
+     "incurred": "3793.00"
+    },
+    {
+     "id": "98-995304",
+     "date": "2021-09-28",
+     "status": "Reopened",
+     "paid": "4686.01",
+     "reserve": "7095.00",
+     "incurred": "11781.01"
+    },
+    {
+     "id": "70-889372",
+     "date": "2021-11-23",
+     "status": "Reopened",
+     "paid": "12223.14",
+     "reserve": "1675.00",
+     "incurred": "13898.14"
+    },
+    {
+     "id": "33-377820",
+     "date": "2021-11-27",
+     "status": "Closed",
+     "paid": "7097.55",
+     "reserve": "0.00",
+     "incurred": "7097.55"
+    },
+    {
+     "id": "48-188842",
+     "date": "2021-12-27",
+     "status": "Reopened",
+     "paid": "7894.07",
+     "reserve": "4516.85",
+     "incurred": "12410.92"
+    },
+    {
+     "id": "61-173925",
+     "date": "2022-01-17",
+     "status": "Closed",
+     "paid": "9024.00",
+     "reserve": "0.00",
+     "incurred": "9024.00"
+    },
+    {
+     "id": "42-745414",
+     "date": "2022-03-18",
+     "status": "Closed",
+     "paid": "293442.29",
+     "reserve": "0.00",
+     "incurred": "293442.29"
+    },
+    {
+     "id": "41-358340",
+     "date": "2022-05-11",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    },
+    {
+     "id": "15-689074",
+     "date": "2022-05-19",
+     "status": "Closed",
+     "paid": "27021.08",
+     "reserve": "0.00",
+     "incurred": "27021.08"
+    }
+   ]
+  },
+  {
+   "policy": "AM332681",
+   "start": "2022-06-01",
+   "end": "2023-06-01",
+   "claims": [
+    {
+     "id": "27-585262",
+     "date": "2022-06-27",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    },
+    {
+     "id": "50-412541",
+     "date": "2022-07-24",
+     "status": "Reopened",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    },
+    {
+     "id": "22-526043",
+     "date": "2022-08-02",
+     "status": "Reopened",
+     "paid": "2790.00",
+     "reserve": "29978.00",
+     "incurred": "32768.00"
+    },
+    {
+     "id": "60-193005",
+     "date": "2022-09-02",
+     "status": "Closed",
+     "paid": "20286.34",
+     "reserve": "0.00",
+     "incurred": "20286.34"
+    }
+   ]
+  },
+  {
+   "policy": "AM5999856",
+   "start": "2023-06-01",
+   "end": "2024-06-01",
+   "claims": [
+    {
+     "id": "90-306476",
+     "date": "2023-06-05",
+     "status": "Reopened",
+     "paid": "3070.00",
+     "reserve": "5175.68",
+     "incurred": "8245.68"
+    },
+    {
+     "id": "47-870275",
+     "date": "2023-09-18",
+     "status": "Reopened",
+     "paid": "6896.29",
+     "reserve": "8796.77",
+     "incurred": "15693.06"
+    },
+    {
+     "id": "77-267626",
+     "date": "2023-11-01",
+     "status": "Closed",
+     "paid": "8591.00",
+     "reserve": "0.00",
+     "incurred": "8591.00"
+    },
+    {
+     "id": "25-583215",
+     "date": "2024-02-22",
+     "status": "Closed",
+     "paid": "2678.56",
+     "reserve": "0.00",
+     "incurred": "2678.56"
+    },
+    {
+     "id": "87-638799",
+     "date": "2024-03-24",
+     "status": "Reopened",
+     "paid": "2044.46",
+     "reserve": "7548.88",
+     "incurred": "9593.34"
+    },
+    {
+     "id": "35-944669",
+     "date": "2024-04-28",
+     "status": "Closed",
+     "paid": "1554.72",
+     "reserve": "0.00",
+     "incurred": "1554.72"
+    },
+    {
+     "id": "13-874155",
+     "date": "2024-05-22",
+     "status": "Closed",
+     "paid": "9833.18",
+     "reserve": "0.00",
+     "incurred": "9833.18"
+    }
+   ]
+  },
+  {
+   "policy": "AM929093",
+   "start": "2024-06-01",
+   "end": "2025-06-01",
+   "claims": [
+    {
+     "id": "46-463296",
+     "date": "2024-08-18",
+     "status": "Closed",
+     "paid": "10391.00",
+     "reserve": "0.00",
+     "incurred": "10391.00"
+    },
+    {
+     "id": "83-755676",
+     "date": "2024-10-01",
+     "status": "Reopened",
+     "paid": "23696.00",
+     "reserve": "6977.39",
+     "incurred": "30673.39"
+    },
+    {
+     "id": "33-929847",
+     "date": "2024-10-24",
+     "status": "Closed",
+     "paid": "5843.49",
+     "reserve": "0.00",
+     "incurred": "5843.49"
+    },
+    {
+     "id": "85-665751",
+     "date": "2024-12-20",
+     "status": "Closed",
+     "paid": "218.35",
+     "reserve": "0.00",
+     "incurred": "218.35"
+    }
+   ]
+  }
+ ]
+}

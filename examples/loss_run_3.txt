@@ -1,0 +1,39 @@
+NORTHBRIDGE MUTUAL INSURANCE CO.
+Loss Run
+Insured: Bayside Electrical Contractors Group LLC
+Coverage: Commercial Property
+Valued As Of: Jan 20, 2024
+
+Policy KK2822708  |  Term Mar 1, 2020 to Mar 1, 2021
+| Claim # | Date of Loss | Claimant | Description | Status | Paid | Reserve | Total Incurred |
+|---|---|---|---|---|---|---|---|
+| 69-226818 | Mar 15, 2020 | Luis Smith | Fire in kitchen area | Closed | 6,430.65 | 0.00 | 6,430.65 |
+| 82-747189 | Sep 21, 2020 | Kevin Moore | Theft of equipment | Closed | 0.00 | 0.00 | 0.00 |
+Policy Totals: 2 claims | Paid 6,430.65 | Reserve 0.00 | Incurred 6,430.65
+
+--- Page 2 ---
+
+Policy KK1895801  |  Term Mar 1, 2021 to Mar 1, 2022
+| Claim # | Date of Loss | Claimant | Description | Status | Paid | Reserve | Total Incurred |
+|---|---|---|---|---|---|---|---|
+| 28-232471 | Apr 10, 2021 | James Walker | Hail damage | Closed | 15,275.36 | 0.00 | 15,275.36 |
+| 52-895800 | May 19, 2021 | Mei Garcia | Fire in kitchen area | Closed | 7,653.94 | 0.00 | 7,653.94 |
+| 86-599397 | Jun 8, 2021 | Kevin Wilson | Vandalism to storefront | Closed | 42,331.92 | 0.00 | 42,331.92 |
+| 68-834908 | Sep 20, 2021 | James Young | Wind damage to siding | Closed | 31,094.34 | 0.00 | 31,094.34 |
+| 13-530327 | Jan 16, 2022 | Jennifer Wilson | Fire in kitchen area | Closed | 1,505.49 | 0.00 | 1,505.49 |
+| 37-308196 | Feb 17, 2022 | James Rivera | Theft of equipment | Closed | 0.00 | 0.00 | 0.00 |
+Policy Totals: 6 claims | Paid 97,861.05 | Reserve 0.00 | Incurred 97,861.05
+
+Policy KK9357616  |  Term Mar 1, 2022 to Mar 1, 2023
+| Claim # | Date of Loss | Claimant | Description | Status | Paid | Reserve | Total Incurred |
+|---|---|---|---|---|---|---|---|
+| 99-231961 | May 22, 2022 | Kevin Brown | Hail damage | Closed | 4,915.66 | 0.00 | 4,915.66 |
+| 50-212510 | Oct 31, 2022 | Maria Rivera | Wind damage to siding | Closed | 11,986.71 | 0.00 | 11,986.71 |
+| 49-385504 | Jan 18, 2023 | Hannah Hall | Vandalism to storefront | Closed | 9,844.20 | 0.00 | 9,844.20 |
+| 32-356114 | Jan 26, 2023 | Patricia Garcia | Vandalism to storefront | Closed | 0.00 | 0.00 | 0.00 |
+Policy Totals: 4 claims | Paid 26,746.57 | Reserve 0.00 | Incurred 26,746.57
+
+Policy KK3853351  |  Term Mar 1, 2023 to Mar 1, 2024
+No claims reported for this policy period.
+
+Confidential - prepared at the request of the named insured.

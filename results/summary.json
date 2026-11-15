@@ -1,0 +1,33 @@
+{
+ "test_set": "300 held-out synthetic loss runs (seed 777, never seen in training)",
+ "ours_v2": {
+  "params_M": 156.7,
+  "perfect_documents_with_self_check": "300/300",
+  "perfect_documents_raw": "298/300",
+  "silent_errors": 0,
+  "flagged_and_fixed_by_self_check": 2,
+  "false_alarms_on_correct_docs": 0,
+  "usd_per_1000_docs": 0.032,
+  "docs_per_hour_one_rtx5090": 16375,
+  "gpu_price_usd_per_hour": 0.517,
+  "basic_arithmetic_accuracy": 1.0,
+  "mixed_arithmetic_accuracy": 0.563
+ },
+ "gpt_6_luna": {
+  "docs": 300,
+  "claim_field_accuracy": 1.0,
+  "usd_per_1000_docs": 0.77
+ },
+ "gpt_6_1_terra": {
+  "docs": 300,
+  "claim_field_accuracy": 1.0,
+  "perfect_case_insensitive": "50/50 (subset)",
+  "usd_per_1000_docs": 7.54
+ },
+ "gpt_6_1_sol": {
+  "docs": 100,
+  "claim_field_accuracy": 1.0,
+  "usd_per_1000_docs": 15.25
+ },
+ "gpt_prices": "OpenAI list prices, November 2026; one-shot prompt"
+}

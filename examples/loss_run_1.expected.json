@@ -1,0 +1,236 @@
+{
+ "insured": "Lakeview Electrical Contractors Group LLC",
+ "carrier": "Redwood National Insurance",
+ "line": "General Liability",
+ "valuation_date": "2024-03-29",
+ "policies": [
+  {
+   "policy": "YWU6636261",
+   "start": "2020-09-01",
+   "end": "2021-09-01",
+   "claims": [
+    {
+     "id": "95-319874",
+     "date": "2020-10-29",
+     "status": "Open",
+     "paid": "9369.83",
+     "reserve": "0.00",
+     "incurred": "9369.83"
+    },
+    {
+     "id": "22-674958",
+     "date": "2021-04-01",
+     "status": "Reopened",
+     "paid": "4157.31",
+     "reserve": "76111.09",
+     "incurred": "80268.40"
+    }
+   ]
+  },
+  {
+   "policy": "YWU7467848",
+   "start": "2021-09-01",
+   "end": "2022-09-01",
+   "claims": [
+    {
+     "id": "29-811444",
+     "date": "2021-09-28",
+     "status": "Closed",
+     "paid": "70226.34",
+     "reserve": "0.00",
+     "incurred": "70226.34"
+    },
+    {
+     "id": "44-809247",
+     "date": "2021-11-06",
+     "status": "Open",
+     "paid": "5031.92",
+     "reserve": "1525.09",
+     "incurred": "6557.01"
+    },
+    {
+     "id": "22-505339",
+     "date": "2021-11-20",
+     "status": "Reopened",
+     "paid": "7001.00",
+     "reserve": "0.00",
+     "incurred": "7001.00"
+    },
+    {
+     "id": "18-930706",
+     "date": "2022-01-07",
+     "status": "Open",
+     "paid": "15019.64",
+     "reserve": "0.00",
+     "incurred": "15019.64"
+    },
+    {
+     "id": "60-171403",
+     "date": "2022-01-28",
+     "status": "Closed",
+     "paid": "6472.79",
+     "reserve": "0.00",
+     "incurred": "6472.79"
+    },
+    {
+     "id": "93-795169",
+     "date": "2022-03-21",
+     "status": "Reopened",
+     "paid": "3098.23",
+     "reserve": "34381.62",
+     "incurred": "37479.85"
+    },
+    {
+     "id": "20-397140",
+     "date": "2022-03-22",
+     "status": "Open",
+     "paid": "5724.09",
+     "reserve": "0.00",
+     "incurred": "5724.09"
+    },
+    {
+     "id": "79-734421",
+     "date": "2022-03-24",
+     "status": "Closed",
+     "paid": "16076.47",
+     "reserve": "0.00",
+     "incurred": "16076.47"
+    },
+    {
+     "id": "32-950874",
+     "date": "2022-06-16",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    },
+    {
+     "id": "68-361193",
+     "date": "2022-08-04",
+     "status": "Reopened",
+     "paid": "5853.55",
+     "reserve": "6932.13",
+     "incurred": "12785.68"
+    },
+    {
+     "id": "44-500079",
+     "date": "2022-08-08",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    }
+   ]
+  },
+  {
+   "policy": "YWU242301",
+   "start": "2022-09-01",
+   "end": "2023-09-01",
+   "claims": [
+    {
+     "id": "36-635625",
+     "date": "2022-10-01",
+     "status": "Reopened",
+     "paid": "5700.00",
+     "reserve": "4975.44",
+     "incurred": "10675.44"
+    },
+    {
+     "id": "51-268920",
+     "date": "2023-01-18",
+     "status": "Closed",
+     "paid": "23335.00",
+     "reserve": "0.00",
+     "incurred": "23335.00"
+    },
+    {
+     "id": "15-638744",
+     "date": "2023-06-14",
+     "status": "Closed",
+     "paid": "4776.30",
+     "reserve": "0.00",
+     "incurred": "4776.30"
+    },
+    {
+     "id": "87-957597",
+     "date": "2023-06-21",
+     "status": "Closed",
+     "paid": "1847.00",
+     "reserve": "0.00",
+     "incurred": "1847.00"
+    }
+   ]
+  },
+  {
+   "policy": "YWU2471622",
+   "start": "2023-09-01",
+   "end": "2024-09-01",
+   "claims": [
+    {
+     "id": "61-729205",
+     "date": "2023-09-30",
+     "status": "Closed",
+     "paid": "4163.00",
+     "reserve": "0.00",
+     "incurred": "4163.00"
+    },
+    {
+     "id": "34-386034",
+     "date": "2023-10-01",
+     "status": "Open",
+     "paid": "3968.37",
+     "reserve": "12564.15",
+     "incurred": "16532.52"
+    },
+    {
+     "id": "94-428427",
+     "date": "2023-10-07",
+     "status": "Closed",
+     "paid": "17377.82",
+     "reserve": "0.00",
+     "incurred": "17377.82"
+    },
+    {
+     "id": "91-134621",
+     "date": "2023-11-10",
+     "status": "Open",
+     "paid": "8956.51",
+     "reserve": "985.37",
+     "incurred": "9941.88"
+    },
+    {
+     "id": "91-498041",
+     "date": "2024-01-27",
+     "status": "Reopened",
+     "paid": "3798.55",
+     "reserve": "24534.00",
+     "incurred": "28332.55"
+    },
+    {
+     "id": "52-198109",
+     "date": "2024-02-08",
+     "status": "Open",
+     "paid": "7697.60",
+     "reserve": "11316.75",
+     "incurred": "19014.35"
+    },
+    {
+     "id": "37-937182",
+     "date": "2024-03-07",
+     "status": "Closed",
+     "paid": "47871.00",
+     "reserve": "0.00",
+     "incurred": "47871.00"
+    },
+    {
+     "id": "85-289312",
+     "date": "2024-03-20",
+     "status": "Reopened",
+     "paid": "2540.24",
+     "reserve": "5838.69",
+     "incurred": "8378.93"
+    }
+   ]
+  }
+ ]
+}

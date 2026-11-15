@@ -1,0 +1,131 @@
+{
+ "insured": "Bayside Electrical Contractors Group LLC",
+ "carrier": "Northbridge Mutual Insurance Co.",
+ "line": "Commercial Property",
+ "valuation_date": "2024-01-20",
+ "policies": [
+  {
+   "policy": "KK2822708",
+   "start": "2020-03-01",
+   "end": "2021-03-01",
+   "claims": [
+    {
+     "id": "69-226818",
+     "date": "2020-03-15",
+     "status": "Closed",
+     "paid": "6430.65",
+     "reserve": "0.00",
+     "incurred": "6430.65"
+    },
+    {
+     "id": "82-747189",
+     "date": "2020-09-21",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    }
+   ]
+  },
+  {
+   "policy": "KK1895801",
+   "start": "2021-03-01",
+   "end": "2022-03-01",
+   "claims": [
+    {
+     "id": "28-232471",
+     "date": "2021-04-10",
+     "status": "Closed",
+     "paid": "15275.36",
+     "reserve": "0.00",
+     "incurred": "15275.36"
+    },
+    {
+     "id": "52-895800",
+     "date": "2021-05-19",
+     "status": "Closed",
+     "paid": "7653.94",
+     "reserve": "0.00",
+     "incurred": "7653.94"
+    },
+    {
+     "id": "86-599397",
+     "date": "2021-06-08",
+     "status": "Closed",
+     "paid": "42331.92",
+     "reserve": "0.00",
+     "incurred": "42331.92"
+    },
+    {
+     "id": "68-834908",
+     "date": "2021-09-20",
+     "status": "Closed",
+     "paid": "31094.34",
+     "reserve": "0.00",
+     "incurred": "31094.34"
+    },
+    {
+     "id": "13-530327",
+     "date": "2022-01-16",
+     "status": "Closed",
+     "paid": "1505.49",
+     "reserve": "0.00",
+     "incurred": "1505.49"
+    },
+    {
+     "id": "37-308196",
+     "date": "2022-02-17",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    }
+   ]
+  },
+  {
+   "policy": "KK9357616",
+   "start": "2022-03-01",
+   "end": "2023-03-01",
+   "claims": [
+    {
+     "id": "99-231961",
+     "date": "2022-05-22",
+     "status": "Closed",
+     "paid": "4915.66",
+     "reserve": "0.00",
+     "incurred": "4915.66"
+    },
+    {
+     "id": "50-212510",
+     "date": "2022-10-31",
+     "status": "Closed",
+     "paid": "11986.71",
+     "reserve": "0.00",
+     "incurred": "11986.71"
+    },
+    {
+     "id": "49-385504",
+     "date": "2023-01-18",
+     "status": "Closed",
+     "paid": "9844.20",
+     "reserve": "0.00",
+     "incurred": "9844.20"
+    },
+    {
+     "id": "32-356114",
+     "date": "2023-01-26",
+     "status": "Closed",
+     "paid": "0.00",
+     "reserve": "0.00",
+     "incurred": "0.00"
+    }
+   ]
+  },
+  {
+   "policy": "KK3853351",
+   "start": "2023-03-01",
+   "end": "2024-03-01",
+   "claims": []
+  }
+ ]
+}

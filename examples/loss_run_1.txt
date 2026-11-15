@@ -1,0 +1,244 @@
+REDWOOD NATIONAL INSURANCE
+Loss History Report
+Account: Lakeview Electrical Contractors Group LLC
+LOB: General Liability
+Valued As Of: 03/29/24
+
+Policy YWU6636261  |  Term 09/01/20 to 09/01/21
+Claim Number: 95-319874
+Loss Date: 10/29/20
+Claimant: Aisha Walker
+Cause: Property damage at client site
+Status: Open
+Total Paid: 9,369.83
+Outstanding Reserve: 0.00
+Total Incurred: 9,369.83
+------------------------------
+Claim Number: 22-674958
+Loss Date: 04/01/21
+Claimant: Daniel Martinez
+Cause: Customer slip and fall on premises
+Status: Reopened
+Total Paid: 4,157.31
+Outstanding Reserve: 76,111.09
+Total Incurred: 80,268.40
+------------------------------
+Policy Totals: 2 claims | Paid 13,527.14 | Reserve 76,111.09 | Incurred 89,638.23
+
+Policy YWU7467848  |  Term 09/01/21 to 09/01/22
+Claim Number: 29-811444
+Loss Date: 09/28/21
+Claimant: Aisha Lewis
+Cause: Trip over extension cord
+Status: Closed
+Total Paid: 70,226.34
+Outstanding Reserve: 0.00
+Total Incurred: 70,226.34
+------------------------------
+Claim Number: 44-809247
+Loss Date: 11/06/21
+Claimant: Maria Patel
+Cause: Product defect allegation
+Status: Open
+Total Paid: 5,031.92
+Outstanding Reserve: 1,525.09
+Total Incurred: 6,557.01
+------------------------------
+Claim Number: 22-505339
+Loss Date: 11/20/21
+Claimant: Nadia Davis
+Cause: Water damage to neighboring unit
+Status: Reopened
+Total Paid: 7,001.00
+Outstanding Reserve: 0.00
+Total Incurred: 7,001.00
+------------------------------
+Claim Number: 18-930706
+Loss Date: 01/07/22
+Claimant: Robert Young
+Cause: Property damage at client site
+Status: Open
+Total Paid: 15,019.64
+Outstanding Reserve: 0.00
+Total Incurred: 15,019.64
+------------------------------
+Claim Number: 60-171403
+Loss Date: 01/28/22
+Claimant: Daniel Lewis
+Cause: Bodily injury - falling object
+Status: Closed
+Total Paid: 6,472.79
+Outstanding Reserve: 0.00
+Total Incurred: 6,472.79
+------------------------------
+Claim Number: 93-795169
+Loss Date: 03/21/22
+Claimant: Grace Moore
+Cause: Product defect allegation
+Status: Reopened
+Total Paid: 3,098.23
+Outstanding Reserve: 34,381.62
+Total Incurred: 37,479.85
+------------------------------
+Claim Number: 20-397140
+Loss Date: 03/22/22
+Claimant: Carlos Kim
+Cause: Product defect allegation
+Status: Open
+Total Paid: 5,724.09
+Outstanding Reserve: 0.00
+Total Incurred: 5,724.09
+------------------------------
+Claim Number: 79-734421
+Loss Date: 03/24/22
+Claimant: Luis Garcia
+Cause: Water damage to neighboring unit
+Status: Closed
+Total Paid: 16,076.47
+Outstanding Reserve: 0.00
+Total Incurred: 16,076.47
+------------------------------
+Claim Number: 32-950874
+Loss Date: 06/16/22
+Claimant: Grace Johnson
+Cause: Water damage to neighboring unit
+Status: Closed
+Total Paid: 0.00
+Outstanding Reserve: 0.00
+Total Incurred: 0.00
+------------------------------
+Claim Number: 68-361193
+Loss Date: 08/04/22
+Claimant: Andre Moore
+Cause: Trip over extension cord
+Status: Reopened
+Total Paid: 5,853.55
+Outstanding Reserve: 6,932.13
+Total Incurred: 12,785.68
+------------------------------
+Claim Number: 44-500079
+Loss Date: 08/08/22
+Claimant: Carlos Lewis
+Cause: Product defect allegation
+Status: Closed
+Total Paid: 0.00
+Outstanding Reserve: 0.00
+Total Incurred: 0.00
+------------------------------
+Policy Totals: 11 claims | Paid 134,504.03 | Reserve 42,838.84 | Incurred 177,342.87
+
+Policy YWU242301  |  Term 09/01/22 to 09/01/23
+Claim Number: 36-635625
+Loss Date: 10/01/22
+Claimant: Daniel Smith
+Cause: Trip over extension cord
+Status: Reopened
+Total Paid: 5,700.00
+Outstanding Reserve: 4,975.44
+Total Incurred: 10,675.44
+------------------------------
+Claim Number: 51-268920
+Loss Date: 01/18/23
+Claimant: Patricia Johnson
+Cause: Bodily injury - falling object
+Status: Closed
+Total Paid: 23,335.00
+Outstanding Reserve: 0.00
+Total Incurred: 23,335.00
+------------------------------
+Claim Number: 15-638744
+Loss Date: 06/14/23
+Claimant: Nadia Martinez
+Cause: Trip over extension cord
+Status: Closed
+Total Paid: 4,776.30
+Outstanding Reserve: 0.00
+Total Incurred: 4,776.30
+------------------------------
+Claim Number: 87-957597
+Loss Date: 06/21/23
+Claimant: Aisha Nguyen
+Cause: Product defect allegation
+Status: Closed
+Total Paid: 1,847.00
+Outstanding Reserve: 0.00
+Total Incurred: 1,847.00
+------------------------------
+Policy Totals: 4 claims | Paid 35,658.30 | Reserve 4,975.44 | Incurred 40,633.74
+
+Policy YWU2471622  |  Term 09/01/23 to 09/01/24
+Claim Number: 61-729205
+Loss Date: 09/30/23
+Claimant: Daniel Brown
+Cause: Trip over extension cord
+Status: Closed
+Total Paid: 4,163.00
+Outstanding Reserve: 0.00
+Total Incurred: 4,163.00
+------------------------------
+Claim Number: 34-386034
+Loss Date: 10/01/23
+Claimant: James Clark
+Cause: Water damage to neighboring unit
+Status: Open
+Total Paid: 3,968.37
+Outstanding Reserve: 12,564.15
+Total Incurred: 16,532.52
+------------------------------
+Claim Number: 94-428427
+Loss Date: 10/07/23
+Claimant: Andre Walker
+Cause: Customer slip and fall on premises
+Status: Closed
+Total Paid: 17,377.82
+Outstanding Reserve: 0.00
+Total Incurred: 17,377.82
+------------------------------
+Claim Number: 91-134621
+Loss Date: 11/10/23
+Claimant: Aisha Lewis
+Cause: Property damage at client site
+Status: Open
+Total Paid: 8,956.51
+Outstanding Reserve: 985.37
+Total Incurred: 9,941.88
+------------------------------
+Claim Number: 91-498041
+Loss Date: 01/27/24
+Claimant: Kevin Brown
+Cause: Trip over extension cord
+Status: Reopened
+Total Paid: 3,798.55
+Outstanding Reserve: 24,534.00
+Total Incurred: 28,332.55
+------------------------------
+Claim Number: 52-198109
+Loss Date: 02/08/24
+Claimant: Sofia Brown
+Cause: Customer slip and fall on premises
+Status: Open
+Total Paid: 7,697.60
+Outstanding Reserve: 11,316.75
+Total Incurred: 19,014.35
+------------------------------
+Claim Number: 37-937182
+Loss Date: 03/07/24
+Claimant: Hannah Walker
+Cause: Customer slip and fall on premises
+Status: Closed
+Total Paid: 47,871.00
+Outstanding Reserve: 0.00
+Total Incurred: 47,871.00
+------------------------------
+Claim Number: 85-289312
+Loss Date: 03/20/24
+Claimant: Patricia Moore
+Cause: Product defect allegation
+Status: Reopened
+Total Paid: 2,540.24
+Outstanding Reserve: 5,838.69
+Total Incurred: 8,378.93
+------------------------------
+Policy Totals: 8 claims | Paid 96,373.09 | Reserve 55,238.96 | Incurred 151,612.05
+
+This report is provided for underwriting purposes only.
