@@ -68,4 +68,4 @@ processed 32K-token documents 1.8x faster and needs ~9x less memory to serve.
 
 Model weights, architecture code and training pipeline are private; access for diligence on request.
 
-Contact: Contact: Arda Göktaş · [LinkedIn](https://www.linkedin.com/in/ardagoktas-ai/) · Free pilot on your own loss runs: message me on LinkedIn.
+Contact: Arda Göktaş · [LinkedIn](https://www.linkedin.com/in/ardagoktas-ai/) · Free pilot on your own loss runs: message me on LinkedIn.
