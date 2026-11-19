@@ -54,7 +54,7 @@ Earlier controlled experiment (same data, same size, 38M): the hybrid reached 7%
 processed 32K-token documents 1.8x faster and needs ~9x less memory to serve.
 
 ## Limitations and next steps
-* Test documents are synthetic. Real carrier loss runs are messier, so we are now collecting real samples from agencies through free pilots.
+* Test documents are synthetic. Real carrier loss runs are messier, so I am now collecting real samples from agencies through free pilots.
 * Scanned PDFs need OCR first (standard tooling).
   
 ## What is in this repository
