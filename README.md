@@ -53,11 +53,10 @@ with 4-digit numbers and dollar sums (up from 12% before the arithmetic fine-tun
 Earlier controlled experiment (same data, same size, 38M): the hybrid reached 7% lower perplexity than a pure Transformer,
 processed 32K-token documents 1.8x faster and needs ~9x less memory to serve.
 
-## Honest limitations
-* Test documents are synthetic. Real carrier loss runs are messier; we are now collecting real samples from agencies.
+## Limitations and next steps
+* Test documents are synthetic. Real carrier loss runs are messier, so we are now collecting real samples from agencies through free pilots.
 * Scanned PDFs need OCR first (standard tooling).
-* Hard arithmetic (4-digit, dollar sums) is still weak; extraction copies amounts and never needs to compute them.
-
+  
 ## What is in this repository
 * `results/summary.json` - every number above
 * `examples/` - sample loss runs from the test set with the expected output
@@ -68,4 +67,4 @@ processed 32K-token documents 1.8x faster and needs ~9x less memory to serve.
 
 Model weights, architecture code and training pipeline are private; access for diligence on request.
 
-Contact: Arda Göktaş · [LinkedIn](https://www.linkedin.com/in/ardagoktas-ai/) · Free pilot on your own loss runs: message me on LinkedIn.
+Contact: Arda Göktaş · goktasarda453@gmail.com · [LinkedIn](https://www.linkedin.com/in/ardagoktas-ai/) · Free pilot on your own loss runs: just email me.
