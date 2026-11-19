@@ -1,6 +1,6 @@
 # Hybrid SSM loss-run extractor (157M, trained from scratch)
 
-A small language model with our own **Mamba-2 / Transformer hybrid architecture** (14 state-space layers + 2 attention layers),
+A small language model with my own **Mamba-2 / Transformer hybrid architecture** (14 state-space layers + 2 attention layers),
 pre-trained from scratch and specialised to one job: turning US commercial-insurance **loss runs** into clean structured data.
 
 **Result in one line:** on 300 held-out loss runs, **300/300 extracted perfectly with 0 silent errors**, at
@@ -15,7 +15,7 @@ Held-out test set: 300 synthetic loss runs generated with a different random see
 5 layouts (tables, fixed-width, blocks, CSV, narrative), several date and money formats, page breaks, "no losses" policies.
 Every model is scored by the same script (`score.py`).
 
-| | **Ours v2** (157M, from scratch) | GPT-6 Luna | GPT-6.1 Terra | GPT-6.1 Sol |
+| | **Lossrun AI v2** (157M, from scratch) | GPT-6 Luna | GPT-6.1 Terra | GPT-6.1 Sol |
 |---|---|---|---|---|
 | Perfect documents | **300/300** with self-check (298/300 raw) | – | 50/50 (case-insensitive) | – |
 | Claim field accuracy | 100% | 100% | 100% | 100% |
